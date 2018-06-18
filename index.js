@@ -11,7 +11,6 @@ function logWhisper(string) {
   console.log(string.toLowerCase())
 }
 function sayHiToGrandma(string){
-function greet(name) {
   if (typeof name === "undefined") {
     name = "you";
   }
