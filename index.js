@@ -11,10 +11,10 @@ function logWhisper(string) {
   console.log(string.toLowerCase())
 }
 function sayHiToGrandma(string){
-  if (typeof name === "undefined") {
-    name = "you";
+  if (string === "I love you, Grandma.") {
+    string = "I love you, too.";
   }
-  return "Good morning " + name + "!";
+  ;
 } 
 }
 
