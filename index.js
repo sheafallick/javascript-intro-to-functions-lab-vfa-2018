@@ -17,7 +17,7 @@ function sayHiToGrandma(string){
     string = "YES INDEED!";
   }
   if(string === whisper(string)){
-    string = "I can/'t hear you!";
+    string = "I can't hear you!";
   }
   return string
 }
